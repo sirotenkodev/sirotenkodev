@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Nikita Sirotenko
 
-<!--
-**sirotenkodev/sirotenkodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Simple programmes on Qt
 
-Here are some ideas to get you started:
+[![Notepad](https://github-readme-stats.vercel.app/api/pin/?username=sirotenkodev&repo=Notepad)](https://github.com/sirotenkodev/Notepad)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Notes](https://github-readme-stats.vercel.app/api/pin/?username=sirotenkodev&repo=Notes)](https://github.com/https://github.com/sirotenkodev/Notes)
+
+My Email: nick.sirotenko@yandex.ru
+My Telegram: https://t.me/nikst1ck97
+
+<details>
+<summary>GitHub stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirotenkodev" />
+  <p />
+  <img src="https://github-readme-stats.vercel.app/api?username=sirotenkodev&count_private=true&show_icons=true" />
+</details>
