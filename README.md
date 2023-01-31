@@ -2,7 +2,7 @@
 
 Simple programmes on Qt
 
-[![Notepad](https://github-readme-stats.vercel.app/api/pin/?username=sirotenkodev&repo=Notepad)](https://github.com/sirotenkodev/Notepad)   [![Notes](https://github-readme-stats.vercel.app/api/pin/?username=sirotenkodev&repo=Notes)](https://github.com/sirotenkodev/Notes)
+[![Notepad](https://github-readme-stats.vercel.app/api/pin/?username=sirotenkodev&repo=Notepad)](https://github.com/sirotenkodev/Notepad)
 
 My Email: nick.sirotenko@yandex.ru
 
